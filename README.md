@@ -26,6 +26,24 @@ It follows the ReAct pattern (Thought → Action → Observation), which is comm
 
 ---
 
+---
+
+## How the Agent Works
+
+This project follows a simple ReAct loop:
+
+User Query
+   ↓
+Agent (Reasoning)
+   ↓
+Action Selection
+   ↓
+Observation
+   ↓
+Final Answer
+
+---
+
 ## Project structure
 
 ```
