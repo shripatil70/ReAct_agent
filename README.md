@@ -69,7 +69,7 @@ This project helped me get hands-on experience with:
 - Structuring AI logic in Python  
 ---
 ## Possible improvements  
-e.g., Add a frontend (React-based UI), Integrate external tools (search, APIs), Add memory for multi-step conversations, Deploy as a web app  
+**e.g., Add a frontend (React-based UI), Integrate external tools (search, APIs), Add memory for multi-step conversations, Deploy as a web app  **
 ---
 ## Note  The `.env` file is not included for security reasons. Make sure to add your own API key before running the project.
 ---
