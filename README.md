@@ -26,8 +26,6 @@ It follows the ReAct pattern (Thought → Action → Observation), which is comm
 
 ---
 
----
-
 ## How the Agent Works
 
 This project follows a simple ReAct loop:
