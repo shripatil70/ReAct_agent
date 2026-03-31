@@ -30,15 +30,15 @@ It follows the ReAct pattern (Thought → Action → Observation), which is comm
 
 This project follows a simple ReAct loop:
 
-User Query
-   ↓
-Agent (Reasoning)
-   ↓
-Action Selection
-   ↓
-Observation
-   ↓
-Final Answer
+User Query  
+↓  
+Agent (Reasoning)  
+↓  
+Action Selection  
+↓  
+Observation  
+↓  
+Final Answer  
 
 ---
 
